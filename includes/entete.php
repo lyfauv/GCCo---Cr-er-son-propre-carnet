@@ -2,7 +2,7 @@
 <html lang="fr">
     <head>
         <meta charset="utf-8" />
-		<link rel="icon" type="image/png" href="images/favicon.ico" />
+		<link rel="icon" type="image/png" href="images/carnet_icone.ico" />
         <title>ACO et images IRM</title>
 		<link href="css/ter.css" rel="stylesheet" type="text/css" media="all"/>
         <link rel="stylesheet" href="dist/css/bootstrap.css" />

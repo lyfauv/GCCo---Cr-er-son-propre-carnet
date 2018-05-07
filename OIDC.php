@@ -1,5 +1,5 @@
 <?php 
-	include('entete.php');
+	include('includes/entete.php');
 	$title = 'programmation';
 ?>
 
@@ -119,5 +119,5 @@
 	</br>
 	
 <?php 
-	include('pied.php');
+	include('includes/pied.php');
 ?>
