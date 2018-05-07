@@ -1,5 +1,5 @@
 <?php 
-	include('entete.php');
+	include('includes/entete.php');
 	$title = 'telechargements';
 ?>
 
@@ -37,5 +37,5 @@
 	<p class="texte">Pour télécharger l'archive contenant les codes et les images : <a href="telechargements/codes_et_images.zip" download="codes_et_images">Télécharger les codes et les images</a></p>
 </br>
 <?php 
-	include('pied.php');
+	include('includes/pied.php');
 ?>

@@ -1,0 +1,120 @@
+body
+{
+	margin-left:40px;
+	margin-right:40px;
+}
+
+/* Entete */
+.banniere 
+{
+	background: url('../images/carnet5.jpg');
+	background-size:100%;
+	background-position: center top;
+	background-attachment: fixed;
+	font-style: bold;
+	color:black;
+	font-size:18px;
+	text-shadow:white 1px 1px 1px;
+}
+
+/* Titres */
+
+h1
+{
+	font-size:20px;
+}
+
+h2
+{
+	margin-right:50px;
+	border-bottom:solid #999D9C;
+}
+
+h3
+{
+	font-style:italic;
+}
+
+h4
+{
+	font-style:italic;
+	margin-right:50px;
+	color:#C8CACA;
+}
+
+.formule
+{
+	text-align:center;
+	background-position:center;
+}
+
+.dl
+{
+	margin-left:2%;
+}
+
+.autre
+{
+	margin-left:50px;
+}
+
+footer
+{
+	text-align:center;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+p.texte
+{
+	text-align:justify;
+	margin-left:40px;
+	width:90%;
+	font-size:16px;
+}
+
+.image
+{
+	text-align:center;
+}
+
+.ref
+{
+	text-decoration:none;
+}
+
+p.menu
+{
+    text-decoration: none;
+	color:#999D9C;
+	text-align:center;
+}
+
+#entete
+{
+	position:fixed;
+	position:top;
+}
+
+#side_menu
+{
+	position:fixed;
+}
+
+#texte_droite
+{
+	margin-left:18%;
+}
+
+.interface
+{
+	color:grey;
+}
+
+.contact
+{
+	margin-left:50px;
+	font-style:bold;
+	font-size:20px;
+}
