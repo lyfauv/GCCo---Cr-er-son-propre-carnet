@@ -71,6 +71,7 @@ footer
 p {
 	text-align: justify;
 	margin: 7px 40px;
+	font-size:16px;
 }
 p.texte
 {
@@ -136,7 +137,8 @@ p.menu
 
 #texte_droite
 {
-	margin-left:18%;
+	margin-right: 40px;
+	margin-left: 270px;
 }
 
 .interface
