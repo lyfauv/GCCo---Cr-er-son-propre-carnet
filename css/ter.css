@@ -23,7 +23,7 @@ h2
 {
 	margin-right:50px;
 	margin-bottom: 20px;
-	border-bottom:solid #999D9C;
+	border-bottom:solid #DFBA9D;
 }
 
 h3
@@ -76,6 +76,7 @@ p.texte
 {
 	text-align:justify;
 	margin-left:40px;
+	margin-right: 40px;
 	width:90%;
 	font-size:16px;
 }
@@ -148,4 +149,20 @@ p.menu
 	margin-left:50px;
 	font-style:bold;
 	font-size:20px;
+}
+
+.carousel
+{
+	margin: 35px auto;
+}
+
+.accueil
+{
+	border-radius: 90px;
+	background-color: #DFBA9D;
+}
+
+.navbar-side
+{
+	box-shadow: #BBB 3px 3px 1px;
 }

@@ -6,7 +6,7 @@
 <div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-3 col-lg-2" id="side_menu">
-				<nav class="navbar navbar-default navbar-fixed-side">
+				<nav class="navbar navbar-side navbar-default navbar-fixed-side">
 					<ul class="nav navbar-nav">
 						<li><a href="#pli">Phénomène de pli</a></li>
 						<li><a href="#decoupe">Phénomène de découpe</a></li>
@@ -15,7 +15,7 @@
 				</nav>
 			</div>
 			<div class="col-sm-9 col-lg-10" id = "texte_droite">
-				<h1>Diagramme des phénomènes</h1>
+				<h1 class="accueil">Diagramme des phénomènes</h1>
 				<p>L'objectif de ce diagramme est d'expliquer les différents phénomènes auxquels nous avons recours dans notre activité.
 				Cela permet d'expliquer quel système on peut obtenir en passant par ces phénomènes, et quels facteurs l'influencent.
 				On peut alors comprendre comment le rendre plus efficace.</p>

@@ -4,7 +4,7 @@
 ?>
 	<div class="container">
 		<div class="row">
-			<h1 class="center">Crée ton propre carnet !</h1>
+			<h1 class="center accueil">Crée ton propre carnet !</h1>
 			
 			<div id="tuto" class="carousel slide" data-ride="carousel">
 				<ol class="carousel-indicators">
@@ -36,25 +36,26 @@
 		</div>
 		
 		<div class="row">
-			<h2>Cadre du projet</h2>
-			<p>Le livre de connaissances a été réalisé dans le cadre du projet donné par Mr. Serge Aries.</p>
-			<p>Il a pour but de détailler les différentes étapes et concepts nécessaires à la création d'un carnet.
-				<br/>Ce projet a été réalisé avec la méthode MASK I, dont le fonctionnement est détaillé <a target="_blank" href="http://aries.serge.free.fr/index.php?page=content/MASK/SA32#MASKI">ici</a>.</p>
-			<p>Vous pouvez consulter sur le site les différents diagrammes que nous avons réalisé, ainsi que les télécharger au format Xmind.</p>
-			<p>Bonne lecture !</p>
-		</div>
-		
-		<div class="row">
-			<h2>Pourquoi créer son propre carnet ?</h2>
-			<p> Si tu es toi aussi un adepte des carnets, créer ton propre carnet est tout à ton avantage !</p>
-			<p> Tu peux :</p>
-			<ul class="margin">
-				<li>Avoir une couverture personnalisée</li>
-				<li>Avoir des pages personnalisées</li>
-				<li>Choisir le format de ton carnet</li>
-				<li>Choisir le nombre de pages de ton carnet</li>
-			</ul>
-			<p> Toutes les combinaisons deviennent possibles !</p>
+			<div class="row col-md-6">
+				<h2>Cadre du projet</h2>
+				<p>Le livre de connaissances a été réalisé dans le cadre du projet donné par Mr. Serge Aries. Il a pour but de détailler les différentes étapes et concepts nécessaires à la création d'un carnet.</p>
+					<p>Ce projet a été réalisé avec la méthode MASK I, dont le fonctionnement est détaillé <a target="_blank" href="http://aries.serge.free.fr/index.php?page=content/MASK/SA32#MASKI">ici</a>.</p>
+				<p>Vous pouvez consulter sur le site les différents diagrammes que nous avons réalisé, ainsi que les télécharger au format Xmind.</p>
+				<p>Bonne lecture !</p>
+			</div>
+			
+			<div class="row col-md-6">
+				<h2>Pourquoi créer son propre carnet ?</h2>
+				<p> Si tu es toi aussi un adepte des carnets, créer ton propre carnet est tout à ton avantage !</p>
+				<p> Tu peux :</p>
+				<ul class="margin">
+					<li>Avoir une couverture personnalisée</li>
+					<li>Avoir des pages personnalisées</li>
+					<li>Choisir le format de ton carnet</li>
+					<li>Choisir le nombre de pages de ton carnet</li>
+				</ul>
+				<p> Toutes les combinaisons deviennent possibles !</p>
+			</div>
 		</div>
 		
 		<div class="row">
@@ -81,12 +82,16 @@
 			<h2>Retour d'expérience</h2>
 			<div class="row">
 				<h3>Réaliser son carnet</h3>
-				<p>La méthode de réalisation de carnet n'a pas été trop compliquée à réaliser. Ce qui prend le plus de temps</p>
+				<ul class="margin">
+					<li>La méthode de réalisation de carnet n'a pas été trop compliquée à réaliser. Ce qui prenait le plus de temps était finalement d'attendre que la colle sèche.</li>
+					<li>L'élaboration des couvertures, avec les mesures et les tracés à réaliser étaient probablement la partie compliquée de ce tutoriel.</li>
+				</ul>
 			</div>
 			<div class="row">
 				<h3>Difficultés</h3>
 				<ul class='margin'>
-					<li>Une difficulté rencontrée a été la retranscription d'une expertise via un tutoriel seulement visuel. Nous avons eu du mal à retrouver la terminologie d'un carnet.</li>
+					<li>Une difficulté rencontrée a été la retranscription d'une expertise via un tutoriel seulement visuel.</li>
+					<li>Nous avons eu du mal à retrouver la terminologie d'un carnet.</li>
 					<li>Certaines tâches paraissaient évidentes, rendant leurs descriptions plus délicates à réaliser.</li>
 				</ul>
 			</div>
