@@ -12,7 +12,7 @@
 		<a href="diagramme/large/taches.png" title="Diagramme des taches" data-spzoom>
 			<img src="diagramme/petit/taches.png" alt="thumb">
 		</a><br/><br/>
-		<a href="telechargements/taches.zip" download="phenomene_decoupe">>> Télécharger le diagramme des tâches</a>
+		<a href="telechargements/taches.zip" download="taches">>> Télécharger le diagramme des tâches</a>
 	</div>
 
 	<br/><br/><br/><br/><br/>

@@ -81,6 +81,9 @@ p.texte
 	width:90%;
 	font-size:16px;
 }
+li {
+	font-size: 16px;
+}
 .margin
 {
 	margin-left: 50px;
