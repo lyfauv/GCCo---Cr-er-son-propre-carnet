@@ -4,8 +4,8 @@
         <meta charset="utf-8" />
 		<link rel="icon" type="image/png" href="images/Icone carnet transparent.ico" />
         <title>ACO et images IRM</title>
-		<link href="css/ter.css" rel="stylesheet" type="text/css" media="all"/>
         <link rel="stylesheet" href="dist/css/bootstrap.css" />
+		<link href="css/ter.css" rel="stylesheet" type="text/css" media="all"/>
 		
 		<?php $title = 'entete'; ?>
     </head> 
