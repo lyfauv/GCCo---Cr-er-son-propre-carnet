@@ -5,8 +5,7 @@
 		<link rel="icon" type="image/png" href="images/Icone carnet transparent.ico" />
         <title><?php echo 'Carnet DIY - '.$title; ?></title>
         <link rel="stylesheet" href="dist/css/bootstrap.min.css" />
-        <title>Carnet DIY</title>
-        <link rel="stylesheet" href="dist/css/bootstrap.css" />
+		<link href="dist/spzoom/jquery.spzoom.css" rel="stylesheet"/>
 		<link href="css/ter.css" rel="stylesheet" type="text/css" media="all"/>
     </head> 
 
