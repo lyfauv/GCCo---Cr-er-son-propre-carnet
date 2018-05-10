@@ -1,6 +1,6 @@
 <?php 
 	include('includes/entete.php');
-	$title = 'contact';
+	$title = 'Contact';
 ?>
 	<div class="autre">
 		<h2>Contact</h2>

@@ -1,6 +1,6 @@
 <?php 
-	include('includes/entete.php');
 	$title = 'OIDC';
+	include('includes/entete.php');
 ?>
 
 	<div class = "container">

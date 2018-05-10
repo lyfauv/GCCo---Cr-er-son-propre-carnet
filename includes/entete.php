@@ -3,11 +3,11 @@
     <head>
         <meta charset="utf-8" />
 		<link rel="icon" type="image/png" href="images/Icone carnet transparent.ico" />
-        <title>ACO et images IRM</title>
+        <title><?php echo 'Carnet DIY - '.$title; ?></title>
         <link rel="stylesheet" href="dist/css/bootstrap.min.css" />
+        <title>Carnet DIY</title>
+        <link rel="stylesheet" href="dist/css/bootstrap.css" />
 		<link href="css/ter.css" rel="stylesheet" type="text/css" media="all"/>
-		
-		<?php $title = 'entete'; ?>
     </head> 
 
 	<body>

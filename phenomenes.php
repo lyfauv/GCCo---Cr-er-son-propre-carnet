@@ -1,4 +1,8 @@
-<?php include "includes/entete.php";?>
+<?php
+	$title = "Phénomènes";
+	include "includes/entete.php";
+?>
+
 <div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-3 col-lg-2" id="side_menu">

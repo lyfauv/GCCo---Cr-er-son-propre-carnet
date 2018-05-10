@@ -1,4 +1,7 @@
-<?php include "includes/entete.php";?>
+<?php
+	$title = "Activité";
+	include "includes/entete.php";
+?>
 
 <div class = "container">
     <h2>Diagramme des activités</h2>

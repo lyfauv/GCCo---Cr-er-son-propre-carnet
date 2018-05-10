@@ -1,6 +1,6 @@
 <?php 
+	$title = 'Téléchargements';
 	include('includes/entete.php');
-	$title = 'telechargements';
 ?>
 
 	<div class = "container">

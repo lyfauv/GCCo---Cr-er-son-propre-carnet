@@ -1,10 +1,10 @@
 <?php 
-	$title = "accueil";
+	$title = "Accueil";
 	include('includes/entete.php');
 ?>
 	<div class="container">
 		<div class="row">
-			<h1>Crée ton propre carnet !</h1>
+			<h1 class="center">Crée ton propre carnet !</h1>
 			
 			<div id="tuto" class="carousel slide" data-ride="carousel">
 				<ol class="carousel-indicators">
@@ -74,6 +74,14 @@
 					<li>Nous avons utilisé des colles différentes de celles du tutoriel pour des raisons matérielles.</li>
 					<li>Nous avons également décidé de changer la méthode de création de couverture, en la simplifiant (faute de matériel disponible).</li>
 				</ul>
+			</div>
+		</div>
+		
+		<div class="row">
+			<h2>Retour d'expérience</h2>
+			<div class="row">
+				<h3>Réaliser son carnet</h3>
+				<p>La méthode de réalisation de carnet n'a pas été trop compliquée à réaliser. Ce qui prend le plus de temps</p>
 			</div>
 			<div class="row">
 				<h3>Difficultés</h3>
