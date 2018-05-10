@@ -30,6 +30,7 @@
 			</div>
 		</div>
 	</div>
+</div>
 	</br>
 
 <?php include "includes/pied.php";?>
