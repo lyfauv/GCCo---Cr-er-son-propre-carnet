@@ -1,6 +1,7 @@
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <script src="js/jquery-1.12.2.min.js"></script>
 <script src="dist/js/bootstrap.js"></script>
+<script src="dist/spzoom/jquery.spzoom.js"></script>
 <script>
 $('[data-spzoom]').spzoom({
   // <a href="https://www.jqueryscript.net/zoom/">Zoom</a> window width in pixels
