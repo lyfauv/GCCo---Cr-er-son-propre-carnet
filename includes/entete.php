@@ -7,7 +7,8 @@
         <link rel="stylesheet" href="dist/css/bootstrap.min.css" />
 		<link href="dist/spzoom/jquery.spzoom.css" rel="stylesheet"/>
 		<link href="css/ter.css" rel="stylesheet" type="text/css" media="all"/>
-    </head> 
+		
+	</head> 
 
 	<body>
 		<div class="banniere">
@@ -37,7 +38,7 @@
 				<li <?php if ($title == "phenomenes") {echo 'class="active"';} ?>><a href="phenomenes.php" title="phenomenes">Phénomènes</a></li>
 				<li <?php if ($title == "activite") {echo 'class="active"';} ?>><a href="activite.php" title="activite">Activités</a></li>
 				<li <?php if ($title == "taches") {echo 'class="active"';} ?>><a href="taches.php" title="taches">Tâches</a></li>
-				<li <?php if ($title == "telechargements") {echo 'class="active"';} ?>><a href="telechargements.php" title="Fichiers">Télécharger les Mind Maps</a></li>
+				<li <?php if ($title == "telechargements") {echo 'class="active"';} ?>><a href="telechargements.php" title="Fichiers">Mind Maps</a></li>
 			</ul>
 		</div>
 	</nav>
