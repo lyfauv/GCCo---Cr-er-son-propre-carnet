@@ -10,7 +10,7 @@
 	<div class="center">
 	<br/><br/>
 		<a href="diagramme/large/concepts.png" title="Diagramme des taches" data-spzoom>
-			<img src="diagramme/petit/concepts.png" alt="thumb">
+			<img src="diagramme/petit/concepts.jpg" alt="thumb">
 		</a><br/><br/>
 		<a href="telechargements/concepts.zip" download="concepts">>> Télécharger le diagramme des concepts</a>
 	</div>
