@@ -20,13 +20,13 @@
 						</div>
 					</div>
 					<div class="item">
-						<img class="carou" src="images/carnetY.jpg" width="250" height="250"/>
+						<img class="carou" src="images/carnetC.jpg" width="250" height="250"/>
 						<div class="carousel-caption d-none d-md-block">
 							<h5></h5>
 						</div>
 					</div>
 					<div class="item">
-						<img class="carou" src="images/jaune.jpg" width="275" height="183"/>
+						<img class="carou" src="images/carnetY.jpg" width="250" height="250"/>
 						<div class="carousel-caption d-none d-md-block">
 							<h5></h5>
 						</div>
@@ -38,8 +38,8 @@
 		<div class="row">
 			<div class="row col-md-6">
 				<h2>Cadre du projet</h2>
-				<p>Le livre de connaissances a été réalisé dans le cadre du projet donné par Mr. Serge Aries. Il a pour but de détailler les différentes étapes et concepts nécessaires à la création d'un carnet.</p>
-					<p>Ce projet a été réalisé avec la méthode MASK I, dont le fonctionnement est détaillé <a target="_blank" href="http://aries.serge.free.fr/index.php?page=content/MASK/SA32#MASKI">ici</a>.</p>
+				<p>Ce livre de connaissances a été réalisé dans le cadre du projet donné par Mr. Serge Aries en Gestion des Connaissances et des compétences. Il a pour but de détailler les différentes étapes et concepts nécessaires à une activité donnée. Dans notre cas, il s'agit de la création d'un carnet.</p>
+				<p>Ce projet a été réalisé en suivant la méthode MASK I. Il s'agit d'une méthode de capitalisation des connaissances dont le fonctionnement est détaillé <a target="_blank" href="http://aries.serge.free.fr/index.php?page=content/MASK/SA32#MASKI">ici</a>.</p>
 				<p>Vous pouvez consulter sur le site les différents diagrammes que nous avons réalisé, ainsi que les télécharger au format Xmind.</p>
 				<p>Bonne lecture !</p>
 			</div>

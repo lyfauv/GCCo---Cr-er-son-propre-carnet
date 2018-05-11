@@ -5,7 +5,7 @@
 
 	<div class = "container">
 		<h2>Diagramme OIDC</h2>
-		<p>Ci-après se trouve la mind map présentant les systèmes et savoirs impliqués dans la création d'un carnet.</p>
+		<p>Ci-après se trouve la mind map présentant les systèmes et savoirs impliqués dans la création d'un carnet. Ce diagramme permet de mettre en évidence la réalisation de l'activité d'un point de vue global, en distinguant les différents sous-systèmes impliqués, et les différents savoirs qui sont sollicités.</p>
 		
 		<div class="row">
 			<div class="col-md-6">

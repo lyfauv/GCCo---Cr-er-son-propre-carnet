@@ -5,7 +5,7 @@
 
 <div class = "container">
     <h2>Diagramme des concepts</h2>
-    <p>Le diagramme des concepts permet d'expliciter tous les concepts qui sont nécessaires à la fabrication de son carnet.</p>
+    <p>Le diagramme des concepts permet d'expliciter les différents concepts sollicités lors de la fabrication de son carnet. Cela permet par exemple de préciser des quantités, d'avoir un aperçu global des objets impliqués.</p>
 	
 	<div class="center">
 	<br/><br/>
