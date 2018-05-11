@@ -33,6 +33,15 @@
 			</div>
 			<div class="col-md-6"></div>
 		</div>
+		
+	
+		<div class="center">
+			<br/><br/>
+			<a href="diagramme/large/oidc.png" title="Diagramme OIDC" data-spzoom>
+				<img src="diagramme/petit/oidc.png" alt="thumb" width="678" height="396">
+			</a><br/><br/>
+			<a href="telechargements/oidc.zip" download="oidc">>> Télécharger le diagramme OIDC</a>
+		</div>
 	</div>
 	
 <?php 
