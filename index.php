@@ -14,21 +14,21 @@
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img class="carou" src="images/rouge.jpg" width="275" height="183"/>
+						<img class="carou" src="images/carnetL.jpg" width="250" height="250"/>
 						<div class="carousel-caption d-none d-md-block">
-							<h5>Yen</h5>
+							<h5></h5>
 						</div>
 					</div>
 					<div class="item">
-						<img class="carou" src="images/minion.jpg" width="275" height="183"/>
+						<img class="carou" src="images/carnetY.jpg" width="250" height="250"/>
 						<div class="carousel-caption d-none d-md-block">
-							<h5>Lylia</h5>
+							<h5></h5>
 						</div>
 					</div>
 					<div class="item">
 						<img class="carou" src="images/jaune.jpg" width="275" height="183"/>
 						<div class="carousel-caption d-none d-md-block">
-							<h5>Clara</h5>
+							<h5></h5>
 						</div>
 					</div>
 				</div>
@@ -59,7 +59,7 @@
 		</div>
 		
 		<div class="row">
-			<h2>Tutoriel transcrit</h2>
+			<h2>L'expert</h2>
 			<div class="row">
 				<div class="col-md-4"></div>
 				<div class="col-md-4">
@@ -67,7 +67,22 @@
 				</div>
 				<div class="col-md-4"></div>
 			</div>
-			<p class="center"><i>Pour des raisons matérielles, nous avons cherché un tutoriel qui se basait sur une reliure à la colle.</i></p>
+			<p class="center"><i>Notre expert était cette vidéo de tutoriel.</i></p>
+			<div class="row">
+				<h3>Justification du choix du sujet</h3>
+				<ul class='margin'>
+					<li>Plutôt que de nous pencher sur une expertise maîtrisée par l'une de nous, nous avions toutes eu l'envie d'apprendre
+					quelque chose de nouveau. Ayant toutes un bullet journal <i>(<a target="_blank" href="http://bulletjournal.fr/">ici si vous ne savez pas ce que c'est</a>)</i>, nous avons pensé assez naturellement à l'idée de créer son propre carnet.</li>
+					<li>N'ayant pas d'expert parmi nous à questionner en personne, nous avons dû partir à la recherche de notre expert préféré parmi les différents tutoriels existants.</li>
+					<li>
+						Nous avions en tête les critères suivants:
+						<ul>
+							<li>Méthode de reliure par la colle (pour raisons matérielles)</li>
+							<li>Un rendu qui nous plaît</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
 			<div class="row">
 				<h3>Modifications du tutoriel</h3>
 				<ul class='margin'>
@@ -91,7 +106,7 @@
 				<h3>Difficultés</h3>
 				<ul class='margin'>
 					<li>Une difficulté rencontrée a été la retranscription d'une expertise via un tutoriel seulement visuel.</li>
-					<li>Nous avons eu du mal à retrouver la terminologie d'un carnet.</li>
+					<li>Nous avons eu du mal à retrouver la terminologie impliquée dans la création d'un carnet.</li>
 					<li>Certaines tâches paraissaient évidentes, rendant leurs descriptions plus délicates à réaliser.</li>
 				</ul>
 			</div>

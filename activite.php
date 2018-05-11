@@ -11,7 +11,7 @@
 	<div class="center">
 		<br/><br/>
 		<a href="diagramme/large/activite.png" title="Diagramme des taches" data-spzoom>
-			<img src="diagramme/petit/activite.png" alt="thumb" width="555" height="1137">
+			<img src="diagramme/petit/activite.png" alt="thumb" width="277" height="568">
 		</a><br/><br/>
 		<a href="telechargements/activites.zip" download="activites">>> Télécharger le diagramme d'activités</a>
 	</div>
